@@ -1,0 +1,7 @@
+{
+    "name": "txb/design",
+    "description": "Texas Baptists Design",
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
